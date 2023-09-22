@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mike-Ter
+- 👋 Hi, I’m @Mike-Adah
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to find collaborators on my project GLOTALI
+- 🌱 I’m a Web Developer and entrepreneur
+- 💞️ I’m looking to find collaborators on my project GLOTALIB
 - 📫 How to reach me termichaelter@gmail.com
 
 <!---
